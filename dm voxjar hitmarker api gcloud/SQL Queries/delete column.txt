@@ -1,0 +1,5 @@
+CREATE OR REPLACE TABLE `vjar_oh_prod.ia_Summarydrop_test` AS
+SELECT
+  * EXCEPT (int64_field_0)
+FROM
+  `vjar_oh_prod.ia_summary`;

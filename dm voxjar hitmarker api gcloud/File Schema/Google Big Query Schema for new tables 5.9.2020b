@@ -1,0 +1,252 @@
+[
+    {
+        "name": "agentId",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "agentName",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "agentPhone",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "customerId",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "customerName",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "direction",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "disposition",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "duration",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "emotion_angry",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "emotion_fear",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "emotion_happy",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "emotion_neutral",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "emotion_sad",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7afterhours",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7appointavailable",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7appointmenttype",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7coronavirus",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7dateofbirth",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7deceased",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7forbidden",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7hospitalized",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7howfar",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7itsfree",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7medicare",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7nocost",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7notinterested",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7opening",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7pcphysician",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7prescriptions",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7reachedvoicemail",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7secondopinion",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7timeofday",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7travelto",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7trial",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7whatsimportant",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "exp7secureline",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "filetype",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "id",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "isSupervisor",
+        "type": "BOOLEAN",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "location",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "profileName",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "reportsTo",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "silenceDuration",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "skill",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "tags",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "teamName",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "timeZoneOffset",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "timestamp",
+        "type": "TIMESTAMP",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "transcript",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "type",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }
+]

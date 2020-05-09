@@ -1,0 +1,11 @@
+SELECT
+  id,
+  COUNT(DISTINCT id) AS unique_values,
+  COUNT(*) AS value
+FROM
+  `vjar_oh_prod.ia_summary`
+GROUP BY
+  1;
+
+
+
